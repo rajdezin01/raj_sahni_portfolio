@@ -1062,6 +1062,7 @@ a {
 .faq-header p {
   margin: 0;
   font-size: 18px;
+  color: var(--text-muted)
 }
 
 .faq-list {
